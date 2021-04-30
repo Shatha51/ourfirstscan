@@ -1,0 +1,4 @@
+how to install and use this tool :
+be root ( sudo -i )
+apt update
+apt upgrade 
