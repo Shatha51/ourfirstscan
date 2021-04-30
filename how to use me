@@ -2,3 +2,7 @@ how to install and use this tool :
 be root ( sudo -i )
 apt update
 apt upgrade 
+git clone https://github.com/dura51/ourfirstscan.git 
+ls 
+chmod +x ourfirstscan.sh
+./ourfirstscan.sh your target domain
